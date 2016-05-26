@@ -1,0 +1,24 @@
+body {
+  padding-top: 30px;
+}
+
+.text-center h2 {
+  font-size: 5em;
+  font-family: Times, "Times New Roman", serif;
+  font-weight: bold;
+  color: green;
+
+}
+
+h3 {
+  margin-bottom: 50px;
+  font-weight: bold;
+  font-size: 3em;
+  font-family: Times, "Times New Roman", serif;
+}
+
+.text-muted blockquote {
+  background-color: #F7F3B2;
+  font-size: 1.2em;
+
+}
